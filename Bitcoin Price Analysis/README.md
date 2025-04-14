@@ -18,7 +18,7 @@ We apply basic financial analytics such as moving averages (MA7 and MA30), daily
 - seaborn
 
 ### 📊 Sample Visuals
-(Replace with screenshots if needed.)
+(screenshots are provided.)
 
 ### 📁 How to Use
 1. Clone the repo  
